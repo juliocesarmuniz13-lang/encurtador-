@@ -1,0 +1,8 @@
+links.db
+__pycache__/
+git init
+git add .
+git commit -m "primeira versão"
+git branch -M main
+git remote add origin https://github.com/juliocesarmuniz13-lang
+git push -u origin main
